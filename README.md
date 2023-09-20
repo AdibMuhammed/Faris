@@ -1,3 +1,3 @@
-# fARIS
+# Faris
 
 # AI -Intro
